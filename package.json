@@ -1,0 +1,16 @@
+{
+  "name": "nextjs-ideia",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:aldenfachetti/nextjs-ideia.git",
+  "author": "Alden Fachetti <aldenmerlin@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^10.0.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "scripts": {
+    "dev": "next dev"
+  }
+}
